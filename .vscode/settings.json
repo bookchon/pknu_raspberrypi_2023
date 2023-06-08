@@ -1,0 +1,5 @@
+{
+    "editor.wordWrap": "wordWrapColumn",
+    "editor.mouseWheelZoom": true,
+    "editor.fontFamily": "'Nanum Gothic Coding', 'Droid Sans Mono', 'monospace', monospace"
+}
