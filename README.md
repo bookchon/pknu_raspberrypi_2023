@@ -26,3 +26,15 @@
 				- systemctl [start/stop/status] 서비스명
 			- MySQL DB
 			- Web Server
+
+## 4일차
+	- 라즈베리파이 학습
+		- PyQt5 설치
+		- QtDesigner 설치 및 실행 확인
+		- 하드웨어 제어(GPIO)
+			- LED / RGB LED 출력
+
+## 5일차
+	- 라즈베리파이 학습
+		- 네트워크 세팅(VNC)
+		- RGB LED / Button 클]릭''''''''
