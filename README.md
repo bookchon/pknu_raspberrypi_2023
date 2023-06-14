@@ -53,4 +53,4 @@ WPF 모니터링, 컨트롤 화면
 <img src="https://github.com/bookchon/pknu_raspberrypi_2023/blob/main/images/raspberrypi01.jpg?raw=true.png" width="780" />
 
 라즈베리파이 테스트 결과
-<img src="https://github.com/bookchon/pknu_raspberrypi_2023/blob/main/images/raspberrypi01.jpg?raw=true" width="780" />
+<img src="https://github.com/bookchon/pknu_raspberrypi_2023/blob/main/images/raspberrypi02.jpg?raw=true" width="780" />
